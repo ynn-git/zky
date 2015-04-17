@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracts changes of files.
 new line.
-new test for conflict2.
+new test for conflict and conflict2.
